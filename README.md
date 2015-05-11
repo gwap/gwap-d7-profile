@@ -4,6 +4,7 @@ Un profil de base pour toute nouvelle installation de Drupal 7 (inclut automatiq
 # Utilisation
 1. Installer Drush 
 2. Créer un fichier gwap-d7-profile.make dans /var/www/ et y ajouter les lignes suivantes:
+
 core = 7.x
 
 api = 2
