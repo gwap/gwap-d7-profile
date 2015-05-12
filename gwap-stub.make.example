@@ -4,7 +4,7 @@ core = 7.x
 api = 2
 
 projects[drupal][version] = "7.37"
-projects[gwap][type] = "profile"
-projects[gwap][download][type] = "git"
-projects[gwap][download][url] = "https://github.com/gwap/gwap-d7-profile"
-projects[gwap][download][branch] = "master"
+projects[gwapd7p][type] = "profile"
+projects[gwapd7p][download][type] = "git"
+projects[gwapd7p][download][url] = "https://github.com/gwap/gwapd7p"
+projects[gwapd7p][download][branch] = "master"
