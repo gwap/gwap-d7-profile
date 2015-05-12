@@ -5,7 +5,7 @@ api = 2
 ; Contrib
 
 projects[backup_migrate][subdir] = "contrib"
-projects[backup_migrate][version] = "3.0"
+projects[backup_migrate][version] = "3.1"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.7"
@@ -41,7 +41,7 @@ projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.2"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 
 projects[panels][subdir] = "contrib"
 projects[panels][version] = "3.5"
