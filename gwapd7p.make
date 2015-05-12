@@ -4,6 +4,9 @@ api = 2
 
 ; Contrib
 
+projects[admin_menu][subdir] = "contrib"
+projects[admin_menu][version] = "3.0-rc5"
+
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][version] = "3.1"
 
