@@ -6,5 +6,5 @@ api = 2
 projects[drupal][version] = "7.37"
 projects[gwapd7p][type] = "profile"
 projects[gwapd7p][download][type] = "git"
-projects[gwapd7p][download][url] = "https://github.com/gwap/gwapd7p"
+projects[gwapd7p][download][url] = "https://github.com/gwap/gwapd7p.git"
 projects[gwapd7p][download][branch] = "master"
