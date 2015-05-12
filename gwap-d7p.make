@@ -31,6 +31,9 @@ projects[pathauto][version] = "1.2"
 projects[radix_views][subdir] = "contrib"
 projects[radix_views][version] = "1.0"
 
+projects[radix_layouts][subdir] = "contrib"
+projects[radix_layouts][version] = "3.3"
+
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.6"
 
@@ -39,6 +42,12 @@ projects[transliteration][version] = "3.2"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.10"
+
+projects[panels][subdir] = "contrib"
+projects[panels][version] = "3.5"
+
+projects[panelizer][subdir] = "contrib"
+projects[panelizer][version] = "3.1"
 
 ; Themes
 projects[radix][subdir] = "contrib"
